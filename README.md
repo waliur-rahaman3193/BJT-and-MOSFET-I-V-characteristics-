@@ -25,4 +25,4 @@ This repository contains simulation files and analysis of the **I-V (Current-Vol
 To explore the simulations:
 1. Clone the repository:
    ```bash
-   git clone https://github.com/yourusername/iv-characteristics-bjt-mosfet.git
+   git clone https://github.com/waliur-rahaman3193/iv-characteristics-bjt-mosfet.git
